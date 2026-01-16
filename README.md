@@ -13,3 +13,4 @@
 - [Triangle](https://leetcode.com/problems/triangle/)
 - [CombinationSumIV](https://leetcode.com/problems/combination-sum-iv/)
 - [Longest Increasing Subseq](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+- [Arithematic Slices](https://leetcode.com/problems/arithmetic-slices/)
