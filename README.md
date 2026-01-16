@@ -10,3 +10,4 @@
 - [Coin Change](https://leetcode.com/problems/coin-change/)
 - [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 - [Minimum Cost for Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
+-[Triangle](https://leetcode.com/problems/triangle/)
