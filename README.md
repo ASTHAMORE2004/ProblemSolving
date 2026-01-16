@@ -12,3 +12,4 @@
 - [Minimum Cost for Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
 - [Triangle](https://leetcode.com/problems/triangle/)
 - [CombinationSumIV](https://leetcode.com/problems/combination-sum-iv/)
+- [longestIncreasing seq](https://leetcode.com/problems/longest-increasing-subsequence/description/)
