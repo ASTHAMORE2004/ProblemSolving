@@ -7,3 +7,4 @@
 
   ##DYNAMIC PROGRAMMING
   - CoinChange problem (https://leetcode.com/problems/coin-change/)
+- prefect squares (https://leetcode.com/problems/perfect-squares/)
